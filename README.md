@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100)
+
 <h1 align="center">Hi 👋, I'm Natalie Angelova</h1>
-<h3 align="center">I'm a student at Softuni University. I have a bachelor's degree in finance, but I found my passion in programming.</h3>
+<h3 align="left">I'm a student at Softuni University. I have a bachelor's degree in finance, but I found my passion in programming.</h3>
 
 
 - 🌱 I’m currently learning **Spring, React**
@@ -16,5 +18,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanko89&show_icons=true&theme=dark&locale=en" alt="nanko89" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanko89&theme=dark" alt="nanko89" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nanko89&label=Profile%20views&color=f4d50b&style=plastic" alt="nanko89" /> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nanko89&label=Profile%20views&color=FEFBE9&style=plastic" alt="nanko89" /> </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
 
