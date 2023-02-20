@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100)
 
 <h1 align="center">Hi 👋, I'm Natalie Angelova</h1>
-<h3 align="left">I'm a student at Softuni University. I have a bachelor's degree in finance, but I found my passion in programming.</h3>
+<h3 align="center">I'm a student at Softuni University. I have a bachelor's degree in finance, but I found my passion in programming.</h3>
 
 
 - 🌱 I’m currently learning **Spring, React**
