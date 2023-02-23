@@ -19,8 +19,8 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nanko89&theme=dark" alt="nanko89" /></p>
 <br>
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nanko89&label=Profile%20views&color=FEFBE9&style=plastic" alt="nanko89" /> </p>
- -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=nanko89&label=Profile%20views&color=FEFBE9&style=plastic" alt="nanko89" /> </p> -->
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
 
 
